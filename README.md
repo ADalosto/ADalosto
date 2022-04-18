@@ -49,7 +49,8 @@ Opa!Eu sou o Andrey Dalosto! 🇧🇷
   
  
 
- 
+
+
   ![Snake animation](https://github.com/adalosto/adalosto/blob/output/github-contribution-grid-snake.svg)
  
 
