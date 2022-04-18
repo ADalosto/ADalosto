@@ -17,7 +17,7 @@ Opa!Eu sou o Andrey Dalosto! 🇧🇷
 <div>
 
  <a href="https://www.instagram.com/a_dalosto" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://open.spotify.com/user/wv848lqlrb09rz9ifj08unr15?si=694aefb2bed24d9f" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
+ 	<a href="https://open.spotify.com/user/wv848lqlrb09rz9ifj08unr15?si=694aefb2bed24d9f" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  <a href="https://steamcommunity.com/id/tripaseca1717" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a> 
   <a href = "https://twitter.com/andrey_dalosto"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <div>
