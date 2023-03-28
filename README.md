@@ -25,7 +25,7 @@ Opa!Eu sou o Andrey Dalosto! 🇧🇷
 <div align="center">
   <a href="https://github.com/adalosto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adalosto&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adalost&hide_progress=trueo&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adalosto&hide_progress=true&langs_count=7&theme=midnight-purple"/>
    
 </div>
 
