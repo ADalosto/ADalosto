@@ -46,7 +46,7 @@ Opa!Eu sou o Andrey Dalosto! 🇧🇷
   <img align="center" alt="Andrey-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg">
   <img align="center" alt="Andrey-Csharp" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="Andrey-DJs" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-plain.svg">
- 
+  <img align="center" alt="Andrey-Php" height="40" width="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/php.svg">
   <div>
   
  
