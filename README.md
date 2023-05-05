@@ -13,8 +13,8 @@ Opa!Eu sou o Andrey Dalosto! 🇧🇷
 <br>
 
 
-![gojo-satoru](https://user-images.githubusercontent.com/103847726/163738584-e60471a3-34a5-4cb2-a089-4c1436e763e2.gif)
-<div>
+<!--![gojo-satoru](https://user-images.githubusercontent.com/103847726/163738584-e60471a3-34a5-4cb2-a089-4c1436e763e2.gif)
+<div>-->
 
  <a href="https://www.instagram.com/a_dalosto" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.linkedin.com/in/adalosto" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
