@@ -13,8 +13,8 @@ Opa!Eu sou o Andrey Dalosto! 🇧🇷
 <br>
 
 
-<!--![gojo-satoru](https://user-images.githubusercontent.com/103847726/163738584-e60471a3-34a5-4cb2-a089-4c1436e763e2.gif)
-<div>-->
+<!--[gojo-satoru](https://user-images.githubusercontent.com/103847726/163738584-e60471a3-34a5-4cb2-a089-4c1436e763e2.gif)
+<div -->
 
  <a href="https://www.instagram.com/a_dalosto" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.linkedin.com/in/adalosto" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -22,10 +22,10 @@ Opa!Eu sou o Andrey Dalosto! 🇧🇷
   
 <div>
 
-<!--div align="center">
+<div align="center">
   <a href="https://github.com/adalosto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adalosto&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adalosto&hide_progress=true&langs_count=7&theme=midnight-purple"/-->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=adalosto&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adalosto&hide_progress=true&langs_count=7&theme=midnight-purple">
    
 </div>
 
