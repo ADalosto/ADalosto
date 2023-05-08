@@ -9,7 +9,7 @@
 
 <h3 align="center">  <br>
 
-Opa!Eu sou o Andrey Dalosto! 🇧🇷
+Opa!Eu sou o Andrey Dalosto! 
 <br>
 
 
@@ -32,14 +32,14 @@ Opa!Eu sou o Andrey Dalosto! 🇧🇷
 
 
 
-## Sobre Mim 🧑‍💻
+## Sobre Mim 
  <img align="right" alt="Andrey-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/822936263832895491/965416244494893077/unknown.png?width=676&height=676">
 
-- Sou estudante do Colégio Técnico de Limeira - COTIL 📚
+- Sou estudante do Colégio Técnico de Limeira - COTIL 
 
-- Estou cursando Técnico em Desenvolvimento de Sistemas. 💻
+- Estou cursando Técnico em Desenvolvimento de Sistemas. 
 
-- Desenvolvedor de Bots Discord. 🤖
+- Desenvolvedor de Bots Discord. 
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Andrey-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg">
